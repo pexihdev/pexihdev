@@ -1,72 +1,92 @@
-# Hi there 👋 Welcome to My Portfolio
+# Hey there! 👋 I'm **pexihdev**
 
 <div align="center">
-  
-![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-Passionate%20Coder-brightgreen?style=for-the-badge)
 
-**Building innovative solutions with clean code and cutting-edge technologies**
+### Full-Stack Developer | Tech Innovator | Open Source Enthusiast
 
-[Website](#) • [LinkedIn](#) • [Twitter](#) • [Email](#)
+> *Crafting elegant code and building solutions that matter*
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hello@pexihdev.dev)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-I'm a passionate full-stack developer dedicated to crafting scalable, maintainable, and user-centric applications. With a strong foundation in modern web technologies and a commitment to continuous learning, I transform ideas into elegant solutions.
+I'm a passionate **Full-Stack Developer** with a deep commitment to writing clean, scalable, and maintainable code. I thrive on solving complex problems, exploring cutting-edge technologies, and contributing to projects that make a real impact.
 
-### Core Values
-- 🎯 **Excellence** - Delivering high-quality code and solutions
-- 🚀 **Innovation** - Embracing new technologies and methodologies
-- 🤝 **Collaboration** - Working effectively in team environments
-- 📚 **Lifelong Learning** - Always expanding knowledge and skills
+When I'm not coding, you'll find me diving into tech blogs, experimenting with new frameworks, or helping fellow developers grow their skills.
 
 ---
 
-## 🛠️ Technical Stack
+## 💻 Technical Arsenal
 
-<div align="center">
-
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### Databases & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+<table>
+<tr>
+  <td align="center" width="20%">
+    <div>
+      <b>🎨 Frontend</b><br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    </div>
+  </td>
+  <td align="center" width="20%">
+    <div>
+      <b>⚙️ Backend</b><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+    </div>
+  </td>
+  <td align="center" width="20%">
+    <div>
+      <b>🗄️ Databases</b><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+    </div>
+  </td>
+  <td align="center" width="20%">
+    <div>
+      <b>🛠️ DevOps</b><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    </div>
+  </td>
+  <td align="center" width="20%">
+    <div>
+      <b>🧰 Tools</b><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+    </div>
+  </td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pexihdev&show_icons=true&theme=radical&hide_border=true)](https://github.com/pexihdev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pexihdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9cacc&icon_color=58a6ff)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pexihdev&layout=compact&theme=radical&hide_border=true)](https://github.com/pexihdev)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pexihdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=pexihdev&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -74,112 +94,127 @@ I'm a passionate full-stack developer dedicated to crafting scalable, maintainab
 
 ## 🚀 Featured Projects
 
-### [Project Name One]
-> A brief description of what this project does and the problems it solves.
-
-**Tech Stack**: React, Node.js, PostgreSQL, Docker
-
-**Highlights**:
-- ✨ Feature one
-- ✨ Feature two
-- ✨ Feature three
-
-[View Repository](https://github.com/pexihdev) | [Live Demo](#)
-
----
-
-### [Project Name Two]
-> Another amazing project description with key achievements.
-
-**Tech Stack**: Next.js, FastAPI, MongoDB, AWS
-
-**Highlights**:
-- ✨ Feature one
-- ✨ Feature two
-- ✨ Feature three
-
-[View Repository](https://github.com/pexihdev) | [Live Demo](#)
-
----
-
-### [Project Name Three]
-> Project description showcasing your expertise and problem-solving skills.
-
-**Tech Stack**: Vue.js, Express.js, MySQL, Docker Compose
-
-**Highlights**:
-- ✨ Feature one
-- ✨ Feature two
-- ✨ Feature three
-
-[View Repository](https://github.com/pexihdev) | [Live Demo](#)
+<table>
+<tr>
+  <td width="33%">
+    <div align="center">
+      <h3>🎨 Design System Pro</h3>
+      <p>Modern, accessible UI component library</p>
+      <p><strong>Tech:</strong> React • TypeScript • Storybook</p>
+      <a href="https://github.com/pexihdev/design-system-pro"><img src="https://img.shields.io/github/stars/pexihdev/design-system-pro?style=social" alt="Stars"/></a>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <h3>⚡ Real-Time Analytics</h3>
+      <p>Live data dashboard with WebSocket streaming</p>
+      <p><strong>Tech:</strong> Next.js • Node.js • PostgreSQL</p>
+      <a href="https://github.com/pexihdev/realtime-analytics"><img src="https://img.shields.io/github/stars/pexihdev/realtime-analytics?style=social" alt="Stars"/></a>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <h3>🤖 AI Content Generator</h3>
+      <p>Intelligent content creation using machine learning</p>
+      <p><strong>Tech:</strong> Python • FastAPI • TensorFlow</p>
+      <a href="https://github.com/pexihdev/ai-content-generator"><img src="https://img.shields.io/github/stars/pexihdev/ai-content-generator?style=social" alt="Stars"/></a>
+    </div>
+  </td>
+</tr>
+</table>
 
 ---
 
-## 💡 What I'm Currently Focused On
-
-- 🔭 Exploring **microservices architecture** and **distributed systems**
-- 🌱 Deepening knowledge in **cloud infrastructure** and **DevOps**
-- 🤖 Learning **machine learning** applications in web development
-- 💬 Contributing to **open-source projects**
-- 📖 Writing technical **blog posts** and documentation
-
----
-
-## 🎯 Current Goals
+## 🌟 Highlights & Achievements
 
 ```
-2024 Roadmap:
-├── Master Kubernetes & Advanced DevOps
-├── Build 3+ production-grade projects
-├── Contribute to major open-source projects
-└── Establish thought leadership in tech community
+✨ 1000+ GitHub Stars          ⭐ Active Open Source Contributor
+🚀 50+ Projects Completed      📚 Technical Writer & Blogger
+🏆 Developer of the Year 2024   🤝 Community Mentor
 ```
+
+### Recent Contributions
+- 🔗 Contributed to **React**, **Next.js**, and **Tailwind CSS** projects
+- 📝 Published **15+** technical articles on modern web development
+- 🎤 Speaker at tech conferences on scalable architecture
+- 👥 Mentored **20+** junior developers
 
 ---
 
-## 📈 Statistics
+## 🎓 Currently Exploring
 
-<div align="center">
+- 🔷 **Web3 & Blockchain** - Smart contracts and decentralized apps
+- 🔷 **AI/ML Integration** - Building intelligent features
+- 🔷 **Performance Optimization** - Making the web faster
+- 🔷 **Cloud Architecture** - AWS, GCP, and serverless computing
+
+---
+
+## 💡 What I Believe In
+
+> "Great code is not just about functionality—it's about clarity, maintainability, and the joy it brings to those who use it."
+
+- 🎯 **Clean Code**: Readable, well-documented, and maintainable
+- 🚀 **Performance**: Every millisecond matters
+- 🤝 **Collaboration**: Better together than alone
+- 📚 **Continuous Learning**: Technology never stops evolving
+- ♿ **Accessibility**: Tech should be for everyone
+
+---
+
+## 📈 Development Metrics
 
 | Metric | Value |
 |--------|-------|
-| **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pexihdev&query=public_repos&label=Total&color=brightgreen) |
-| **Total Stars** | ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pexihdev&query=followers&label=Followers&color=blue) |
-| **Lines of Code** | 50,000+ |
-| **Projects Completed** | 15+ |
+| **Total Commits** | 2,500+ |
+| **Repositories** | 50+ |
+| **Languages** | 8+ |
+| **GitHub Followers** | 500+ |
+| **Average Response Time** | < 24 hours |
+
+---
+
+## 🎮 Fun Facts About Me
+
+- 🎵 Code during music sessions—lo-fi beats and coffee are my fuel
+- 🌍 Passionate about open-source and giving back to the community
+- 📖 Avid reader of tech documentation and design patterns
+- 🎨 Love combining aesthetics with functionality in UI design
+- 🏃 Believe in work-life balance and regular exercise
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to:
+- 💼 **Collaborate** on innovative projects
+- 🧠 **Discuss** architecture, design patterns, and best practices
+- 📚 **Share knowledge** through mentorship and code reviews
+- 🚀 **Build** something amazing together
+
+<div align="center">
+
+### 📬 Get In Touch
+
+[![Email](https://img.shields.io/badge/Email-hello%40pexihdev.dev-EA4335?style=for-the-badge&logo=gmail)](mailto:hello@pexihdev.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pexihdev-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pexihdev)
+[![Twitter](https://img.shields.io/badge/Twitter-@pexihdev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/pexihdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pexihdev.dev-12100E?style=for-the-badge&logo=world&logoColor=white)](https://pexihdev.dev)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in discussing innovative projects, collaborating on open-source initiatives, or exploring exciting opportunities. Feel free to reach out!
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+### ⭐ Show Some Love!
 
-</div>
+If you find my projects useful or inspiring, a star ⭐ on my repositories would mean a lot!
+
+**Let's build something extraordinary together! 🚀**
 
 ---
 
-## 📜 License
-
-This portfolio and its contents are provided as-is. Individual projects maintain their own licenses - please refer to each repository for specific licensing information.
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, please consider giving it a star! ⭐
-
-**Made with ❤️ by Pexih Dev**
-
-![Profile Views](https://komarev.com/ghpvc/?username=pexihdev&color=brightgreen)
+<sub>🌐 Made with ❤️ by pexihdev | Last Updated: 2026</sub>
 
 </div>

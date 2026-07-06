@@ -94,50 +94,49 @@ When I'm not coding, you'll find me diving into tech blogs, experimenting with n
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-  <td width="33%">
-    <div align="center">
-      <h3>🎨 Design System Pro</h3>
-      <p>Modern, accessible UI component library</p>
-      <p><strong>Tech:</strong> React • TypeScript • Storybook</p>
-      <a href="https://github.com/pexihdev/design-system-pro"><img src="https://img.shields.io/github/stars/pexihdev/design-system-pro?style=social" alt="Stars"/></a>
-    </div>
-  </td>
-  <td width="33%">
-    <div align="center">
-      <h3>⚡ Real-Time Analytics</h3>
-      <p>Live data dashboard with WebSocket streaming</p>
-      <p><strong>Tech:</strong> Next.js • Node.js • PostgreSQL</p>
-      <a href="https://github.com/pexihdev/realtime-analytics"><img src="https://img.shields.io/github/stars/pexihdev/realtime-analytics?style=social" alt="Stars"/></a>
-    </div>
-  </td>
-  <td width="33%">
-    <div align="center">
-      <h3>🤖 AI Content Generator</h3>
-      <p>Intelligent content creation using machine learning</p>
-      <p><strong>Tech:</strong> Python • FastAPI • TensorFlow</p>
-      <a href="https://github.com/pexihdev/ai-content-generator"><img src="https://img.shields.io/github/stars/pexihdev/ai-content-generator?style=social" alt="Stars"/></a>
-    </div>
-  </td>
-</tr>
-</table>
+### 🌤️ Weather Dashboard
+> Real-time weather information with 5-day forecasts and favorite city management
+- **Tech:** React • Express • OpenWeatherMap API • Vite
+- **Features:** City search, current weather, forecasts, favorites, responsive design
+- **Status:** ✅ Active
+- [View Project](https://github.com/pexihdev/pexihdev/tree/weather-dashboard) | [View Files](projects/weather-dashboard)
 
 ---
 
-## 🌟 Highlights & Achievements
+### 😂 Random Joke Generator
+> Fetch and display random jokes with history tracking and sharing capabilities
+- **Tech:** React • Express • JokeAPI v2 • Vite
+- **Features:** Random jokes, category filtering, copy/share, history, animations
+- **Status:** ✅ Active
+- [View Project](https://github.com/pexihdev/pexihdev/tree/joke-generator) | [View Files](projects/joke-generator)
+
+---
+
+### 🕐 Digital Clock
+> Multi-timezone clock display with real-time updates
+- **Tech:** React • Vite • CSS3 Animations
+- **Features:** Multiple timezones, real-time updates, beautiful UI
+- **Status:** ✅ Active
+- [View Project](https://github.com/pexihdev/pexihdev/tree/digital-clock) | [View Files](projects/digital-clock)
+
+---
+
+## 🌟 Project Highlights
 
 ```
-✨ 1000+ GitHub Stars          ⭐ Active Open Source Contributor
-🚀 50+ Projects Completed      📚 Technical Writer & Blogger
-🏆 Developer of the Year 2024   🤝 Community Mentor
+✨ 3+ React Projects            ⚡ Real-time API Integration
+🎨 Beautiful Dark Theme UI      📱 Mobile-First Responsive
+🔧 Express Backend Servers      🎯 Clean, Modular Code
+🌍 External API Integration     💾 LocalStorage Persistence
 ```
 
-### Recent Contributions
-- 🔗 Contributed to **React**, **Next.js**, and **Tailwind CSS** projects
-- 📝 Published **15+** technical articles on modern web development
-- 🎤 Speaker at tech conferences on scalable architecture
-- 👥 Mentored **20+** junior developers
+### Project Matrix
+
+| Project | Frontend | Backend | API | Status |
+|---------|----------|---------|-----|--------|
+| Weather Dashboard | React + Vite | Express | OpenWeatherMap | ✅ Active |
+| Joke Generator | React + Vite | Express | JokeAPI | ✅ Active |
+| Digital Clock | React + Vite | - | - | ✅ Active |
 
 ---
 
@@ -166,11 +165,11 @@ When I'm not coding, you'll find me diving into tech blogs, experimenting with n
 
 | Metric | Value |
 |--------|-------|
-| **Total Commits** | 2,500+ |
-| **Repositories** | 50+ |
-| **Languages** | 8+ |
-| **GitHub Followers** | 500+ |
-| **Average Response Time** | < 24 hours |
+| **Total Projects** | 3+ |
+| **Languages Used** | 8+ |
+| **Active Branches** | 4 |
+| **API Integrations** | 2 |
+| **Code Quality** | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -202,6 +201,23 @@ I'm always excited to:
 [![Portfolio](https://img.shields.io/badge/Portfolio-pexihdev.dev-12100E?style=for-the-badge&logo=world&logoColor=white)](https://pexihdev.dev)
 
 </div>
+
+---
+
+## 📚 Repository Structure
+
+```
+pexihdev/
+├── README.md (This file)
+├── projects/
+│   ├── weather-dashboard/
+│   ├── joke-generator/
+│   └── digital-clock/
+├── main (default branch)
+├── weather-dashboard (feature branch)
+├── joke-generator (feature branch)
+└── digital-clock (feature branch)
+```
 
 ---
 
